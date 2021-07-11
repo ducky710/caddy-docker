@@ -4,7 +4,8 @@ RUN xcaddy build \
     --with github.com/caddy-dns/cloudflare \
     --with github.com/greenpau/caddy-auth-portal \
     --with github.com/greenpau/caddy-auth-jwt \
-    --with github.com/mholt/caddy-ratelimit
+    --with github.com/mholt/caddy-ratelimit \
+    --with github.com/caddyserver/replace-response
 
 FROM caddy:2.4.3-alpine
 
