@@ -11,4 +11,5 @@ https://github.com/caddy-dns/cloudflare
 https://github.com/greenpau/caddy-auth-portal
 https://github.com/greenpau/caddy-auth-jwt
 https://github.com/mholt/caddy-ratelimit
+https://github.com/caddyserver/replace-response
 ```
